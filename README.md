@@ -9,7 +9,8 @@
 ![](https://komarev.com/ghpvc/?username=irfanaslam-me&color=brightgreen&style=for-the-badge)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/irfanaslam.me)
 
-<h4>Hi I am Irfan 💇‍♂️ , a passoniate DevOps Engineer from Pakistan.I am an experienced Systems Engineer and Self-taught Software Developer. I have a profound knowledge of Linux Servers, cloud computing, and Django. I love to work with new Technologies and like to learn new things every time.<h4>
+<h4>Seasoned Senior System Engineer & DevOps Engineer with over 9 years of experience in server infrastructure management, automation, and application deployment across Linux-based and hybrid cloud environments. Proficient in managing WordPress and web hosting infrastructures on cPanel, Nginx, Apache, and MySQL, with deep expertise in performance tuning, Redis/Memcached caching, and PHP-FPM optimization. Skilled in Docker containerization, CI/CD pipelines, and infrastructure security, ensuring high availability and reliability for mission-critical systems. Experienced in DevOps workflows, server monitoring, and incident response, delivering secure, scalable, and optimized IT environments for enterprise and production workloads.
+ <h4>
 
  <table align="center" width="100%" height="100%" >
    <tr>
