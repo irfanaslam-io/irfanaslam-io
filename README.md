@@ -99,8 +99,8 @@
  
  
 <h2> My Projects 📁</h2>
-<a href="https://github.com/irfanaslam-me/linux-zero-to-hero">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanaslam-me&theme=react&repo=linux-zero-to-hero" />
+<a href="https://github.com/irfanaslam-me/hosting-panel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanaslam-me&theme=react&repo=hosting-panel" />
 </a>
 <a href="https://github.com/irfanaslam-me/kms-activator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanaslam-me&theme=react&repo=kms-activator" />
