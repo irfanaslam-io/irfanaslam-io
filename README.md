@@ -102,9 +102,10 @@
 <a href="https://github.com/irfanaslam-me/hosting-panel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanaslam-me&theme=react&repo=hosting-panel" />
 </a>
-<a href="https://github.com/irfanaslam-me/kms-activator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanaslam-me&theme=react&repo=kms-activator" />
+<a href="https://github.com/irfanaslam-me/ai-blog-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanaslam-me&theme=react&repo=ai-blog-generator" />
 </a> 
+
 
 
 <br>
