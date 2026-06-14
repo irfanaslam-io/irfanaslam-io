@@ -1,30 +1,23 @@
-<!-- ===================== HEADER BANNER ===================== -->
-<a href="https://github.com/irfanaslam-me">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Muhammad%20Irfan%20Aslam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Infrastructure%20Architect%20%26%20Systems%20Engineer&descAlignY=58&descSize=18" alt="Muhammad Irfan Aslam" />
-</a>
-
 <!-- ===================== HERO: AVATAR + IDENTITY ===================== -->
 <table align="center" border="0">
   <tr>
     <td align="center" width="280">
-      <!-- Glowing animated frame around the real GitHub avatar -->
+      <!-- Circular avatar of Muhammad Irfan Aslam, Senior Infrastructure & DevOps Engineer -->
       <a href="https://github.com/irfanaslam-me">
-        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2C8EFF,100:00E0C6&height=8&width=240&section=header" width="240" alt="" />
-        <br/>
-        <img src="https://github.com/irfanaslam-me.png" width="200" alt="Muhammad Irfan Aslam" style="border-radius:50%;" />
-        <br/>
-        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00E0C6,100:2C8EFF&height=8&width=240&section=footer" width="240" alt="" />
+        <img src="./muhammad-irfan-aslam.png" width="200" alt="Muhammad Irfan Aslam — Senior Infrastructure Architect, Linux & DevOps Engineer" />
       </a>
-      <br/>
-      <a href="https://github.com/irfanaslam-me"><img src="https://img.shields.io/badge/%40irfanaslam--me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub handle" /></a>
+      <br/><br/>
+      <a href="https://github.com/irfanaslam-me"><img src="https://img.shields.io/badge/%40irfanaslam--me-0F2027?style=flat-square&logo=github&logoColor=2C8EFF" alt="Muhammad Irfan Aslam GitHub profile" /></a>
+      <a href="https://www.linkedin.com/in/mohammad-irfan-aslam/"><img src="https://img.shields.io/badge/Open%20to%20Work-2C8EFF?style=flat-square" alt="Open to Work" /></a>
     </td>
     <td align="left">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C8EFF&vCenter=true&width=560&height=60&lines=Hi%2C+I'm+Irfan+%F0%9F%91%8B;Linux+%7C+Cloud+%7C+DevOps+Architect;9%2B+Years+of+Enterprise+Infrastructure;AWS+%E2%80%A2+Azure+%E2%80%A2+GCP+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;99.9%25%2B+Uptime%2C+Zero+Compromise" alt="Typing SVG" />
       <br/>
       <p>
+        🐧 &nbsp;<b>Linux Systems Engineer</b> — RHEL, Ubuntu, automation & security hardening<br/>
         🏗️ &nbsp;Architecting <b>high-availability</b> infrastructure across hybrid cloud<br/>
-        ☁️ &nbsp;<b>AWS • Azure • GCP</b> — automation, security & 99.9%+ uptime<br/>
-        🎓 &nbsp;Teaching real-world DevOps at <a href="https://learnwithirfan.com"><b>learnwithirfan.com</b></a><br/>
+        ☁️ &nbsp;<b>AWS • Azure • GCP</b> — CI/CD, Docker & 99.9%+ uptime<br/>
+        📚 &nbsp;<i>On the side:</i> mentoring Linux & DevOps at <a href="https://learnwithirfan.com"><b>learnwithirfan.com</b></a><br/>
         📍 &nbsp;Based in <b>Riyadh, Saudi Arabia</b> 🇸🇦
       </p>
       <a href="https://github.com/irfanaslam-me?tab=followers"><img src="https://img.shields.io/github/followers/irfanaslam-me?label=Followers&style=social" alt="Followers" /></a>
@@ -33,13 +26,18 @@
   </tr>
 </table>
 
-<!-- ===================== SOCIAL / CONTACT BADGES ===================== -->
+<!-- ===================== WEBSITES ===================== -->
 <p align="center">
-  <a href="https://learnwithirfan.com"><img src="https://img.shields.io/badge/learnwithirfan.com-1A73E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="learnwithirfan.com" /></a>
-  <a href="https://visittome.com"><img src="https://img.shields.io/badge/visittome.com-FF6B00?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="visittome.com" /></a>
-  <a href="https://www.linkedin.com/in/irfanaslam-me/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:engr.irfan641@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/923457023915"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://learnwithirfan.com"><img src="https://img.shields.io/badge/LearnWithIrfan.com-1A73E8?style=flat-square&logo=googlechrome&logoColor=white" height="30" alt="learnwithirfan.com" /></a>&nbsp;
+  <a href="https://visittome.com"><img src="https://img.shields.io/badge/VisitToMe.com-FF6B00?style=flat-square&logo=itchdotio&logoColor=white" height="30" alt="visittome.com" /></a>
+</p>
+
+<!-- ===================== HIRE / CONNECT ===================== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-irfan-aslam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjEzIDEuNDUtMi4xMyAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NXY2LjI5ek01LjM0IDcuNDNhMi4wNyAyLjA3IDAgMSAxIDAtNC4xNCAyLjA3IDIuMDcgMCAwIDEgMCA0LjE0ek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjcydjIwLjU2QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzJWMS43MkMyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B&logoColor=white" height="30" alt="Muhammad Irfan Aslam on LinkedIn" /></a>&nbsp;
+  <a href="https://www.fiverr.com/linux_boy"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white" height="30" alt="Muhammad Irfan Aslam on Fiverr" /></a>&nbsp;
+  <a href="https://www.upwork.com/freelancers/~01831482ee4d9ac17a"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white" height="30" alt="Muhammad Irfan Aslam on Upwork" /></a>&nbsp;
+  <a href="https://wa.me/966595868584"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="30" alt="WhatsApp Muhammad Irfan Aslam" /></a>
 </p>
 
 ---
@@ -48,19 +46,21 @@
 
 ```yaml
 name: "Muhammad Irfan Aslam"
-role: "Senior Infrastructure Architect & Systems Engineer"
+role: "Linux Systems Engineer | Senior Infrastructure & DevOps Engineer"
 based_in: "Riyadh, Saudi Arabia 🇸🇦"
 experience: "9+ years"
 focus: ["Linux", "Hybrid Cloud", "DevOps", "Automation", "Security"]
 certifications: ["CCNA", "Red Hat Linux (RHCSA-trained)"]
 education: "MPhil, Computer Science"
-currently: "Teaching real-world DevOps at learnwithirfan.com 🚀"
+also: "Mentoring Linux & DevOps at learnwithirfan.com 🚀"
 ```
 
-> Senior Infrastructure Architect & Systems Engineer with **9+ years** designing, deploying, and managing
-> enterprise-grade infrastructure across Linux, hybrid cloud, and on-premises environments. Proven track
-> record in cloud architecture (AWS, Azure, GCP), CI/CD automation, Docker orchestration, and security
-> hardening. Adept at driving DevOps transformation and ensuring **99.9%+ uptime** for mission-critical systems.
+**Muhammad Irfan Aslam** is a **Linux Systems Engineer** and **Senior Infrastructure & DevOps / Cloud Engineer**
+based in **Riyadh, Saudi Arabia**, with **9+ years** designing, deploying, and managing enterprise-grade infrastructure
+across Linux, hybrid cloud, and on-premises environments. Proven track record in **cloud architecture (AWS, Azure, GCP)**,
+**CI/CD automation**, **Docker orchestration**, and **security hardening** — driving DevOps transformation and ensuring
+**99.9%+ uptime** for mission-critical systems. Alongside his engineering work, he also mentors aspiring engineers in
+practical Linux, DevOps, and cloud skills at [**learnwithirfan.com**](https://learnwithirfan.com).
 
 ---
 
@@ -70,7 +70,8 @@ currently: "Teaching real-world DevOps at learnwithirfan.com 🚀"
 | :--- | :--- |
 | 🎓 **[learnwithirfan.com](https://learnwithirfan.com)** | Practical Linux, DevOps, Cloud & Automation training — taught through **real labs, not slide decks**. Courses, mentoring, and consulting. |
 | 🎮 **[visittome.com](https://visittome.com)** | A browser gaming platform I built & host — 20+ casual games with leaderboards and difficulty levels. |
-| 💼 **[LinkedIn](https://www.linkedin.com/in/irfanaslam-me/)** | Professional network & career updates. |
+| 💼 **[LinkedIn](https://www.linkedin.com/in/mohammad-irfan-aslam/)** | Professional network, experience & career updates. |
+| ▶️ **[YouTube](https://www.youtube.com/@muhammad-irfan-aslam)** | Linux, DevOps & cloud tutorials and walkthroughs. |
 | 🐙 **[GitHub](https://github.com/irfanaslam-me)** | Open-source labs, guides & infrastructure projects. |
 
 ---
@@ -190,25 +191,20 @@ currently: "Teaching real-world DevOps at learnwithirfan.com 🚀"
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=irfanaslam-me&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irfanaslam-me&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
-</p>
-
 ---
 
 ## 🤝 Let's Collaborate
 
-I'm always open to collaborating on infrastructure, DevOps, and cloud projects — or helping you
-**level up your Linux & DevOps skills** at [learnwithirfan.com](https://learnwithirfan.com).
-Reach out via GitHub, LinkedIn, or email if you'd like to work together.
+I'm always open to collaborating on **infrastructure, DevOps, and cloud projects**.
+Subscribe on YouTube for Linux & DevOps tutorials, or drop me an email — let's build something reliable together.
 
 <p align="center">
-  <a href="mailto:engr.irfan641@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/923457023915"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://www.linkedin.com/in/irfanaslam-me/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://learnwithirfan.com"><img src="https://img.shields.io/badge/-Website-1A73E8?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.youtube.com/@muhammad-irfan-aslam"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" height="30" alt="Muhammad Irfan Aslam on YouTube" /></a>&nbsp;
+  <a href="mailto:engr.irfan641@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="30" alt="Email Muhammad Irfan Aslam" /></a>&nbsp;
+  <a href="https://github.com/irfanaslam-me"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="30" alt="Muhammad Irfan Aslam on GitHub" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" alt="footer" />
-</p>
+<!-- SEO keywords: Muhammad Irfan Aslam, Irfan Aslam, Senior Infrastructure Architect, Linux Systems Engineer,
+DevOps Engineer, Cloud Engineer Riyadh, AWS Azure GCP, Docker Kubernetes, CI/CD, learnwithirfan, visittome -->
+
+<p align="center"><sub>⭐ Thanks for visiting — let's build reliable infrastructure together.</sub></p>
