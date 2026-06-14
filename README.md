@@ -14,7 +14,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C8EFF&vCenter=true&width=560&height=60&lines=Hi%2C+I'm+Irfan+%F0%9F%91%8B;Linux+%7C+Cloud+%7C+DevOps+Architect;9%2B+Years+of+Enterprise+Infrastructure;AWS+%E2%80%A2+Azure+%E2%80%A2+GCP+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;99.9%25%2B+Uptime%2C+Zero+Compromise" alt="Typing SVG" />
       <br/>
       <p>
-        🐧 &nbsp;<b>Linux Systems Engineer</b> — RHEL, Ubuntu, automation & security hardening<br/>
+        🐧 &nbsp;<b>Senior Systems Engineer</b> — Linux (RHEL/Ubuntu), automation & security hardening<br/>
         🏗️ &nbsp;Architecting <b>high-availability</b> infrastructure across hybrid cloud<br/>
         ☁️ &nbsp;<b>AWS • Azure • GCP</b> — CI/CD, Docker & 99.9%+ uptime<br/>
         📚 &nbsp;<i>On the side:</i> mentoring Linux & DevOps at <a href="https://learnwithirfan.com"><b>learnwithirfan.com</b></a><br/>
@@ -46,7 +46,7 @@
 
 ```yaml
 name: "Muhammad Irfan Aslam"
-role: "Linux Systems Engineer | Senior Infrastructure & DevOps Engineer"
+role: "Senior Systems Engineer | Infrastructure, DevOps & Cloud Engineer"
 based_in: "Riyadh, Saudi Arabia 🇸🇦"
 experience: "9+ years"
 focus: ["Linux", "Hybrid Cloud", "DevOps", "Automation", "Security"]
@@ -55,7 +55,7 @@ education: "MPhil, Computer Science"
 also: "Mentoring Linux & DevOps at learnwithirfan.com 🚀"
 ```
 
-**Muhammad Irfan Aslam** is a **Linux Systems Engineer** and **Senior Infrastructure & DevOps / Cloud Engineer**
+**Muhammad Irfan Aslam** is a **Senior Systems Engineer** specializing in **Linux, Infrastructure, DevOps & Cloud**,
 based in **Riyadh, Saudi Arabia**, with **9+ years** designing, deploying, and managing enterprise-grade infrastructure
 across Linux, hybrid cloud, and on-premises environments. Proven track record in **cloud architecture (AWS, Azure, GCP)**,
 **CI/CD automation**, **Docker orchestration**, and **security hardening** — driving DevOps transformation and ensuring
@@ -84,10 +84,7 @@ practical Linux, DevOps, and cloud skills at [**learnwithirfan.com**](https://le
   <img src="https://skillicons.dev/icons?i=nginx,apache,nodejs,php,python,bash,mysql,postgres,redis,git&theme=dark" alt="skills" />
 </p>
 
-<details>
-<summary><b>📋 Full Technical Skill Set (click to expand)</b></summary>
-
-<br/>
+**📋 Full Technical Skill Set**
 
 - **☁️ Cloud Platforms:** AWS (EC2, S3, RDS, SES, VPC, IAM), Microsoft Azure, Google Cloud Platform (GCP)
 - **🖥️ Infrastructure & Virtualization:** Docker, KVM, VMware, Hyper-V, Linux (RHEL, CentOS, Ubuntu), Windows Server 2012R2+
@@ -96,8 +93,6 @@ practical Linux, DevOps, and cloud skills at [**learnwithirfan.com**](https://le
 - **🗄️ Databases:** MySQL, MariaDB, PostgreSQL, Redis, Memcached
 - **🔒 Networking & Security:** Cisco Routers/Switches, pfSense, Mikrotik, SSL/TLS, Firewall, SSH Hardening, VLANs, CCNA
 - **📈 Monitoring & Reliability:** Nagios, performance tuning, incident response
-
-</details>
 
 ---
 
@@ -179,16 +174,16 @@ practical Linux, DevOps, and cloud skills at [**learnwithirfan.com**](https://le
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irfanaslam-me&show_icons=true&count_private=true&hide=issues&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanaslam-me&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=irfanaslam-me&show_icons=true&count_private=true&include_all_commits=true&hide=issues&hide_border=true&border_radius=14&title_color=2C8EFF&icon_color=00E0C6&text_color=C8D6E0&bg_color=0F2027" alt="Muhammad Irfan Aslam GitHub stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanaslam-me&hide_border=true&border_radius=14&background=0F2027&stroke=00E0C6&ring=2C8EFF&fire=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2C8EFF&sideLabels=C8D6E0&dates=7A8C99" alt="Muhammad Irfan Aslam contribution streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanaslam-me&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanaslam-me&layout=donut&langs_count=8&hide_border=true&border_radius=14&title_color=2C8EFF&text_color=C8D6E0&bg_color=0F2027" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=irfanaslam-me&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=irfanaslam-me&custom_title=Contribution%20Graph%20%E2%80%94%20Muhammad%20Irfan%20Aslam&hide_border=true&radius=16&height=320&bg_color=0D1117&color=00E0C6&line=2C8EFF&point=FFFFFF&area=true&area_color=2C8EFF&title_color=00E0C6" alt="Muhammad Irfan Aslam GitHub contribution graph" />
 </p>
 
 ---
