@@ -1,0 +1,95 @@
+name: Update README cards
+
+# The public github-readme-stats server is rate-limited and often shows
+# errors, so the cards are generated here and committed as static SVGs.
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/readme-cards.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    env:
+      # Optional: add a GRS_TOKEN secret (PAT with read:user + repo) to count private contributions.
+      TOKEN: ${{ secrets.GRS_TOKEN || secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate pin-learnwithirfan-kubernetes card
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=irfanaslam-io&repo=Learnwithirfan-Kubernetes&theme=tokyonight&hide_border=true
+          path: profile/pin-learnwithirfan-kubernetes.svg
+          token: ${{ env.TOKEN }}
+
+      - name: Generate pin-learnwithirfan-docker card
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=irfanaslam-io&repo=Learnwithirfan-Docker&theme=tokyonight&hide_border=true
+          path: profile/pin-learnwithirfan-docker.svg
+          token: ${{ env.TOKEN }}
+
+      - name: Generate pin-learning-linux card
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=irfanaslam-io&repo=Learning-Linux&theme=tokyonight&hide_border=true
+          path: profile/pin-learning-linux.svg
+          token: ${{ env.TOKEN }}
+
+      - name: Generate pin-hosting-panel card
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=irfanaslam-io&repo=hosting-panel&theme=tokyonight&hide_border=true
+          path: profile/pin-hosting-panel.svg
+          token: ${{ env.TOKEN }}
+
+      - name: Generate pin-visittossh card
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=irfanaslam-io&repo=visittossh&theme=tokyonight&hide_border=true
+          path: profile/pin-visittossh.svg
+          token: ${{ env.TOKEN }}
+
+      - name: Generate pin-ai-blog-generator card
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=irfanaslam-io&repo=ai-blog-generator&theme=tokyonight&hide_border=true
+          path: profile/pin-ai-blog-generator.svg
+          token: ${{ env.TOKEN }}
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=irfanaslam-io&show_icons=true&count_private=true&include_all_commits=true&hide=issues&hide_border=true&border_radius=14&title_color=2C8EFF&icon_color=00E0C6&text_color=C8D6E0&bg_color=0F2027
+          path: profile/stats.svg
+          token: ${{ env.TOKEN }}
+
+      - name: Generate top-langs card
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=irfanaslam-io&layout=donut&langs_count=8&hide_border=true&border_radius=14&title_color=2C8EFF&text_color=C8D6E0&bg_color=0F2027
+          path: profile/top-langs.svg
+          token: ${{ env.TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push

@@ -107,36 +107,36 @@ practical Linux, DevOps, and cloud skills at [**learnwithirfan.com**](https://le
   <tr>
     <td width="50%">
       <a href="https://github.com/irfanaslam-io/Learnwithirfan-Kubernetes">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=irfanaslam-io&repo=Learnwithirfan-Kubernetes&theme=tokyonight&hide_border=true" alt="Kubernetes" />
+        <img src="./profile/pin-learnwithirfan-kubernetes.svg" alt="Kubernetes" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/irfanaslam-io/Learnwithirfan-Docker">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=irfanaslam-io&repo=Learnwithirfan-Docker&theme=tokyonight&hide_border=true" alt="Docker" />
+        <img src="./profile/pin-learnwithirfan-docker.svg" alt="Docker" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/irfanaslam-io/Learning-Linux">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=irfanaslam-io&repo=Learning-Linux&theme=tokyonight&hide_border=true" alt="Linux" />
+        <img src="./profile/pin-learning-linux.svg" alt="Linux" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/irfanaslam-io/hosting-panel">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=irfanaslam-io&repo=hosting-panel&theme=tokyonight&hide_border=true" alt="Hosting Panel" />
+        <img src="./profile/pin-hosting-panel.svg" alt="Hosting Panel" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/irfanaslam-io/visittossh">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=irfanaslam-io&repo=visittossh&theme=tokyonight&hide_border=true" alt="VisitToSSH — macOS SSH client" />
+        <img src="./profile/pin-visittossh.svg" alt="VisitToSSH — macOS SSH client" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/irfanaslam-io/ai-blog-generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=irfanaslam-io&repo=ai-blog-generator&theme=tokyonight&hide_border=true" alt="AI Blog Generator — WordPress plugin" />
+        <img src="./profile/pin-ai-blog-generator.svg" alt="AI Blog Generator — WordPress plugin" />
       </a>
     </td>
   </tr>
@@ -146,10 +146,21 @@ practical Linux, DevOps, and cloud skills at [**learnwithirfan.com**](https://le
 
 ## 💼 Professional Experience
 
-### 🏢 Trackinst Co — *Senior Systems Engineer*
-`Jan 2025 – Present` · Riyadh, Saudi Arabia 🇸🇦
+### 🏢 [Alphaiota | الفايوتا](https://alphaiota.com.sa) — *System Engineer*
+`Jul 2026 – Present` · Riyadh, Saudi Arabia 🇸🇦 · Full-time, On-site
 
-- Architect and manage scalable, high-availability Linux infrastructure across AWS, Azure, and on-premises environments for enterprise workloads.
+- Design and develop system and server infrastructure aligned with business needs.
+- Install, configure, and maintain operating systems, servers, and enterprise applications across physical and virtual server environments.
+- Monitor system performance, diagnose issues, and implement corrective actions; provide advanced technical support for complex system issues.
+- Implement backup, restore, and disaster recovery policies; manage storage systems and network connectivity to servers.
+- Implement information security controls and periodic security updates.
+- Prepare technical documentation for systems and operational procedures.
+- Collaborate with network, cybersecurity, and application teams for seamless system integration, and take part in planning and executing IT infrastructure projects.
+
+### 🏢 Trackinst Co — *System Engineer*
+`Jan 2025 – Jun 2026` · Riyadh, Saudi Arabia 🇸🇦 · Full-time, On-site
+
+- Architected and managed scalable, high-availability Linux infrastructure across AWS, Azure, and on-premises environments for enterprise workloads.
 - Designed and maintained CI/CD pipelines (GitHub Actions, GitLab CI) automating deployment, testing, and delivery — reducing release cycle time significantly.
 - Administered and optimized Nginx, Apache, MySQL, PostgreSQL, and app stacks (Node.js, Python, PHP) to ensure consistent uptime under high load.
 - Orchestrated Docker workloads across AWS, DigitalOcean, and Azure with automated scaling, backup, and optimized resource utilization.
@@ -191,12 +202,12 @@ practical Linux, DevOps, and cloud skills at [**learnwithirfan.com**](https://le
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=irfanaslam-io&show_icons=true&count_private=true&include_all_commits=true&hide=issues&hide_border=true&border_radius=14&title_color=2C8EFF&icon_color=00E0C6&text_color=C8D6E0&bg_color=0F2027" alt="Muhammad Irfan Aslam GitHub stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanaslam-io&hide_border=true&border_radius=14&background=0F2027&stroke=00E0C6&ring=2C8EFF&fire=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2C8EFF&sideLabels=C8D6E0&dates=7A8C99" alt="Muhammad Irfan Aslam contribution streak" />
+  <img height="180" src="./profile/stats.svg" alt="Muhammad Irfan Aslam GitHub stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=irfanaslam-io&hide_border=true&border_radius=14&background=0F2027&stroke=00E0C6&ring=2C8EFF&fire=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2C8EFF&sideLabels=C8D6E0&dates=7A8C99" alt="Muhammad Irfan Aslam contribution streak" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanaslam-io&layout=donut&langs_count=8&hide_border=true&border_radius=14&title_color=2C8EFF&text_color=C8D6E0&bg_color=0F2027" alt="Most used languages" />
+  <img height="180" src="./profile/top-langs.svg" alt="Most used languages" />
 </p>
 
 <p align="center">
