@@ -107,36 +107,36 @@ practical Linux, DevOps, and cloud skills at [**learnwithirfan.com**](https://le
   <tr>
     <td width="50%">
       <a href="https://github.com/irfanaslam-io/Learnwithirfan-Kubernetes">
-        <img src="./profile/pin-learnwithirfan-kubernetes.svg" alt="Kubernetes" />
+        <img src="https://raw.githubusercontent.com/irfanaslam-io/irfanaslam-io/main/profile/pin-learnwithirfan-kubernetes.svg" alt="Kubernetes" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/irfanaslam-io/Learnwithirfan-Docker">
-        <img src="./profile/pin-learnwithirfan-docker.svg" alt="Docker" />
+        <img src="https://raw.githubusercontent.com/irfanaslam-io/irfanaslam-io/main/profile/pin-learnwithirfan-docker.svg" alt="Docker" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/irfanaslam-io/Learning-Linux">
-        <img src="./profile/pin-learning-linux.svg" alt="Linux" />
+        <img src="https://raw.githubusercontent.com/irfanaslam-io/irfanaslam-io/main/profile/pin-learning-linux.svg" alt="Linux" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/irfanaslam-io/hosting-panel">
-        <img src="./profile/pin-hosting-panel.svg" alt="Hosting Panel" />
+        <img src="https://raw.githubusercontent.com/irfanaslam-io/irfanaslam-io/main/profile/pin-hosting-panel.svg" alt="Hosting Panel" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/irfanaslam-io/visittossh">
-        <img src="./profile/pin-visittossh.svg" alt="VisitToSSH — macOS SSH client" />
+        <img src="https://raw.githubusercontent.com/irfanaslam-io/irfanaslam-io/main/profile/pin-visittossh.svg" alt="VisitToSSH — macOS SSH client" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/irfanaslam-io/ai-blog-generator">
-        <img src="./profile/pin-ai-blog-generator.svg" alt="AI Blog Generator — WordPress plugin" />
+        <img src="https://raw.githubusercontent.com/irfanaslam-io/irfanaslam-io/main/profile/pin-ai-blog-generator.svg" alt="AI Blog Generator — WordPress plugin" />
       </a>
     </td>
   </tr>
@@ -202,16 +202,19 @@ practical Linux, DevOps, and cloud skills at [**learnwithirfan.com**](https://le
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="./profile/stats.svg" alt="Muhammad Irfan Aslam GitHub stats" />
+  <img height="180" src="https://raw.githubusercontent.com/irfanaslam-io/irfanaslam-io/main/profile/stats.svg" alt="Muhammad Irfan Aslam GitHub stats" />
   <img height="180" src="https://streak-stats.demolab.com/?user=irfanaslam-io&hide_border=true&border_radius=14&background=0F2027&stroke=00E0C6&ring=2C8EFF&fire=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2C8EFF&sideLabels=C8D6E0&dates=7A8C99" alt="Muhammad Irfan Aslam contribution streak" />
 </p>
 
 <p align="center">
-  <img height="180" src="./profile/top-langs.svg" alt="Most used languages" />
+  <img height="180" src="https://raw.githubusercontent.com/irfanaslam-io/irfanaslam-io/main/profile/top-langs.svg" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=irfanaslam-io&custom_title=Contribution%20Graph%20%E2%80%94%20Muhammad%20Irfan%20Aslam&hide_border=true&radius=16&height=320&bg_color=0D1117&color=00E0C6&line=2C8EFF&point=FFFFFF&area=true&area_color=2C8EFF&title_color=00E0C6" alt="Muhammad Irfan Aslam GitHub contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irfanaslam-io/irfanaslam-io/main/profile/snake-dark.svg" />
+    <img width="95%" src="https://raw.githubusercontent.com/irfanaslam-io/irfanaslam-io/main/profile/snake.svg" alt="Muhammad Irfan Aslam GitHub contribution graph" />
+  </picture>
 </p>
 
 ---
