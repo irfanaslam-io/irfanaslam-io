@@ -146,10 +146,21 @@ practical Linux, DevOps, and cloud skills at [**learnwithirfan.com**](https://le
 
 ## 💼 Professional Experience
 
-### 🏢 Trackinst Co — *Senior Systems Engineer*
-`Jan 2025 – Present` · Riyadh, Saudi Arabia 🇸🇦
+### 🏢 [Alphaiota | الفايوتا](https://alphaiota.com.sa) — *System Engineer*
+`Jul 2026 – Present` · Riyadh, Saudi Arabia 🇸🇦 · Full-time, On-site
 
-- Architect and manage scalable, high-availability Linux infrastructure across AWS, Azure, and on-premises environments for enterprise workloads.
+- Design and develop system and server infrastructure aligned with business needs.
+- Install, configure, and maintain operating systems, servers, and enterprise applications across physical and virtual server environments.
+- Monitor system performance, diagnose issues, and implement corrective actions; provide advanced technical support for complex system issues.
+- Implement backup, restore, and disaster recovery policies; manage storage systems and network connectivity to servers.
+- Implement information security controls and periodic security updates.
+- Prepare technical documentation for systems and operational procedures.
+- Collaborate with network, cybersecurity, and application teams for seamless system integration, and take part in planning and executing IT infrastructure projects.
+
+### 🏢 Trackinst Co — *System Engineer*
+`Jan 2025 – Jun 2026` · Riyadh, Saudi Arabia 🇸🇦 · Full-time, On-site
+
+- Architected and managed scalable, high-availability Linux infrastructure across AWS, Azure, and on-premises environments for enterprise workloads.
 - Designed and maintained CI/CD pipelines (GitHub Actions, GitLab CI) automating deployment, testing, and delivery — reducing release cycle time significantly.
 - Administered and optimized Nginx, Apache, MySQL, PostgreSQL, and app stacks (Node.js, Python, PHP) to ensure consistent uptime under high load.
 - Orchestrated Docker workloads across AWS, DigitalOcean, and Azure with automated scaling, backup, and optimized resource utilization.
