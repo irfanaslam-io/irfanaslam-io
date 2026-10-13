@@ -2,9 +2,9 @@
 <table align="center" border="0">
   <tr>
     <td align="center" width="280">
-      <!-- Circular avatar of Muhammad Irfan Aslam, Senior Infrastructure & DevOps Engineer -->
+      <!-- Circular avatar of Muhammad Irfan Aslam, Senior Systems & Cloud Engineer -->
       <a href="https://github.com/irfanaslam-io">
-        <img src="./muhammad-irfan-aslam.png" width="200" alt="Muhammad Irfan Aslam — Senior Systems Engineer, Linux, DevOps & Cloud" />
+        <img src="./muhammad-irfan-aslam.png" width="200" alt="Muhammad Irfan Aslam — Senior Systems & Cloud Engineer, Linux, DevOps & Cloud" />
       </a>
       <br/><br/>
       <a href="https://github.com/irfanaslam-io"><img src="https://img.shields.io/badge/%40irfanaslam--io-0F2027?style=flat-square&logo=github&logoColor=2C8EFF" alt="Muhammad Irfan Aslam GitHub profile" /></a>
@@ -14,7 +14,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C8EFF&vCenter=true&width=560&height=60&lines=Hi%2C+I'm+Irfan+%F0%9F%91%8B;Linux+%7C+Cloud+%7C+DevOps+Engineer;9%2B+Years+of+Enterprise+Infrastructure;AWS+%E2%80%A2+Azure+%E2%80%A2+GCP+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;99.9%25%2B+Uptime%2C+Zero+Compromise" alt="Typing SVG" />
       <br/>
       <p>
-        🐧 &nbsp;<b>Senior Systems Engineer</b> — Linux (RHEL/Ubuntu), automation & security hardening<br/>
+        🐧 &nbsp;<b>Senior Systems &amp; Cloud Engineer</b> — Linux (RHEL/Ubuntu), automation & security hardening<br/>
         🏗️ &nbsp;Architecting <b>high-availability</b> infrastructure across hybrid cloud<br/>
         ☁️ &nbsp;<b>AWS • Azure • GCP</b> — CI/CD, Docker & 99.9%+ uptime<br/>
         💼 &nbsp;<b>217+ projects</b> delivered for clients worldwide — see <a href="https://irfanaslam.io"><b>irfanaslam.io</b></a><br/>
@@ -48,7 +48,8 @@
 
 ```yaml
 name: "Muhammad Irfan Aslam"
-role: "Senior Systems Engineer | Infrastructure, DevOps & Cloud Engineer"
+role: "Senior Systems & Cloud Engineer"
+also_known_as: ["Irfan Aslam", "Muhammad Irfan", "Rana Irfan"]
 based_in: "Riyadh, Saudi Arabia 🇸🇦"
 experience: "9+ years"
 website: "https://irfanaslam.io"
@@ -58,7 +59,7 @@ education: "MPhil, Computer Science"
 also: "Mentoring Linux & DevOps at learnwithirfan.com 🚀"
 ```
 
-**Muhammad Irfan Aslam** is a **Senior Systems Engineer** specializing in **Linux, Infrastructure, DevOps & Cloud**,
+**Muhammad Irfan Aslam** (also known as **Irfan Aslam** and **Rana Irfan**) is a **Senior Systems & Cloud Engineer** specializing in **Linux, Infrastructure, DevOps & Cloud**,
 based in **Riyadh, Saudi Arabia**, with **9+ years** designing, deploying, and managing enterprise-grade infrastructure
 across Linux, hybrid cloud, and on-premises environments. Proven track record in **cloud architecture (AWS, Azure, GCP)**,
 **CI/CD automation**, **Docker orchestration**, and **security hardening** — driving DevOps transformation and ensuring
@@ -231,7 +232,7 @@ Subscribe on YouTube for Linux & DevOps tutorials, or drop me an email — let's
   <a href="https://github.com/irfanaslam-io"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="30" alt="Muhammad Irfan Aslam on GitHub" /></a>
 </p>
 
-<!-- SEO keywords: Muhammad Irfan Aslam, Irfan Aslam, Senior Systems Engineer, Linux Systems Engineer,
+<!-- SEO keywords: Muhammad Irfan Aslam, Irfan Aslam, Muhammad Irfan, Rana Irfan, Senior Systems & Cloud Engineer, Linux Systems Engineer,
 DevOps Engineer, Cloud Engineer Riyadh, AWS Azure GCP, Docker Kubernetes, CI/CD, irfanaslam.io, learnwithirfan, visittome -->
 
 <p align="center"><sub>⭐ Thanks for visiting — let's build reliable infrastructure together.</sub></p>
