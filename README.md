@@ -2,9 +2,9 @@
 <table align="center" border="0">
   <tr>
     <td align="center" width="280">
-      <!-- Circular avatar of Muhammad Irfan Aslam, Senior Infrastructure & DevOps Engineer -->
+      <!-- Circular avatar of Muhammad Irfan Aslam, Senior Systems & Cloud Engineer -->
       <a href="https://github.com/irfanaslam-io">
-        <img src="./muhammad-irfan-aslam.png" width="200" alt="Muhammad Irfan Aslam — Senior Systems Engineer, Linux, DevOps & Cloud" />
+        <img src="./muhammad-irfan-aslam.png" width="200" alt="Muhammad Irfan Aslam — Senior Systems & Cloud Engineer, Linux, DevOps & Cloud" />
       </a>
       <br/><br/>
       <a href="https://github.com/irfanaslam-io"><img src="https://img.shields.io/badge/%40irfanaslam--io-0F2027?style=flat-square&logo=github&logoColor=2C8EFF" alt="Muhammad Irfan Aslam GitHub profile" /></a>
@@ -14,7 +14,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C8EFF&vCenter=true&width=560&height=60&lines=Hi%2C+I'm+Irfan+%F0%9F%91%8B;Linux+%7C+Cloud+%7C+DevOps+Engineer;9%2B+Years+of+Enterprise+Infrastructure;AWS+%E2%80%A2+Azure+%E2%80%A2+GCP+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD;99.9%25%2B+Uptime%2C+Zero+Compromise" alt="Typing SVG" />
       <br/>
       <p>
-        🐧 &nbsp;<b>Senior Systems Engineer</b> — Linux (RHEL/Ubuntu), automation & security hardening<br/>
+        🐧 &nbsp;<b>Senior Systems &amp; Cloud Engineer</b> — Linux (RHEL/Ubuntu), automation & security hardening<br/>
         🏗️ &nbsp;Architecting <b>high-availability</b> infrastructure across hybrid cloud<br/>
         ☁️ &nbsp;<b>AWS • Azure • GCP</b> — CI/CD, Docker & 99.9%+ uptime<br/>
         💼 &nbsp;<b>217+ projects</b> delivered for clients worldwide — see <a href="https://irfanaslam.io"><b>irfanaslam.io</b></a><br/>
@@ -48,7 +48,7 @@
 
 ```yaml
 name: "Muhammad Irfan Aslam"
-role: "Senior Systems Engineer | Infrastructure, DevOps & Cloud Engineer"
+role: "Senior Systems & Cloud Engineer"
 based_in: "Riyadh, Saudi Arabia 🇸🇦"
 experience: "9+ years"
 website: "https://irfanaslam.io"
@@ -58,7 +58,7 @@ education: "MPhil, Computer Science"
 also: "Mentoring Linux & DevOps at learnwithirfan.com 🚀"
 ```
 
-**Muhammad Irfan Aslam** is a **Senior Systems Engineer** specializing in **Linux, Infrastructure, DevOps & Cloud**,
+**Muhammad Irfan Aslam** is a **Senior Systems & Cloud Engineer** specializing in **Linux, Infrastructure, DevOps & Cloud**,
 based in **Riyadh, Saudi Arabia**, with **9+ years** designing, deploying, and managing enterprise-grade infrastructure
 across Linux, hybrid cloud, and on-premises environments. Proven track record in **cloud architecture (AWS, Azure, GCP)**,
 **CI/CD automation**, **Docker orchestration**, and **security hardening** — driving DevOps transformation and ensuring
@@ -107,36 +107,36 @@ practical Linux, DevOps, and cloud skills at [**learnwithirfan.com**](https://le
   <tr>
     <td width="50%">
       <a href="https://github.com/irfanaslam-io/Learnwithirfan-Kubernetes">
-        <img src="./profile/pin-learnwithirfan-kubernetes.svg" alt="Kubernetes" />
+        <img src="https://raw.githubusercontent.com/irfanaslam-io/irfanaslam-io/main/profile/pin-learnwithirfan-kubernetes.svg" alt="Kubernetes" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/irfanaslam-io/Learnwithirfan-Docker">
-        <img src="./profile/pin-learnwithirfan-docker.svg" alt="Docker" />
+        <img src="https://raw.githubusercontent.com/irfanaslam-io/irfanaslam-io/main/profile/pin-learnwithirfan-docker.svg" alt="Docker" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/irfanaslam-io/Learning-Linux">
-        <img src="./profile/pin-learning-linux.svg" alt="Linux" />
+        <img src="https://raw.githubusercontent.com/irfanaslam-io/irfanaslam-io/main/profile/pin-learning-linux.svg" alt="Linux" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/irfanaslam-io/hosting-panel">
-        <img src="./profile/pin-hosting-panel.svg" alt="Hosting Panel" />
+        <img src="https://raw.githubusercontent.com/irfanaslam-io/irfanaslam-io/main/profile/pin-hosting-panel.svg" alt="Hosting Panel" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/irfanaslam-io/visittossh">
-        <img src="./profile/pin-visittossh.svg" alt="VisitToSSH — macOS SSH client" />
+        <img src="https://raw.githubusercontent.com/irfanaslam-io/irfanaslam-io/main/profile/pin-visittossh.svg" alt="VisitToSSH — macOS SSH client" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/irfanaslam-io/ai-blog-generator">
-        <img src="./profile/pin-ai-blog-generator.svg" alt="AI Blog Generator — WordPress plugin" />
+        <img src="https://raw.githubusercontent.com/irfanaslam-io/irfanaslam-io/main/profile/pin-ai-blog-generator.svg" alt="AI Blog Generator — WordPress plugin" />
       </a>
     </td>
   </tr>
@@ -202,16 +202,19 @@ practical Linux, DevOps, and cloud skills at [**learnwithirfan.com**](https://le
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="./profile/stats.svg" alt="Muhammad Irfan Aslam GitHub stats" />
+  <img height="180" src="https://raw.githubusercontent.com/irfanaslam-io/irfanaslam-io/main/profile/stats.svg" alt="Muhammad Irfan Aslam GitHub stats" />
   <img height="180" src="https://streak-stats.demolab.com/?user=irfanaslam-io&hide_border=true&border_radius=14&background=0F2027&stroke=00E0C6&ring=2C8EFF&fire=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2C8EFF&sideLabels=C8D6E0&dates=7A8C99" alt="Muhammad Irfan Aslam contribution streak" />
 </p>
 
 <p align="center">
-  <img height="180" src="./profile/top-langs.svg" alt="Most used languages" />
+  <img height="180" src="https://raw.githubusercontent.com/irfanaslam-io/irfanaslam-io/main/profile/top-langs.svg" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=irfanaslam-io&custom_title=Contribution%20Graph%20%E2%80%94%20Muhammad%20Irfan%20Aslam&hide_border=true&radius=16&height=320&bg_color=0D1117&color=00E0C6&line=2C8EFF&point=FFFFFF&area=true&area_color=2C8EFF&title_color=00E0C6" alt="Muhammad Irfan Aslam GitHub contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irfanaslam-io/irfanaslam-io/main/profile/snake-dark.svg" />
+    <img width="95%" src="https://raw.githubusercontent.com/irfanaslam-io/irfanaslam-io/main/profile/snake.svg" alt="Muhammad Irfan Aslam GitHub contribution graph" />
+  </picture>
 </p>
 
 ---
@@ -228,7 +231,7 @@ Subscribe on YouTube for Linux & DevOps tutorials, or drop me an email — let's
   <a href="https://github.com/irfanaslam-io"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="30" alt="Muhammad Irfan Aslam on GitHub" /></a>
 </p>
 
-<!-- SEO keywords: Muhammad Irfan Aslam, Irfan Aslam, Senior Systems Engineer, Linux Systems Engineer,
+<!-- SEO keywords: Muhammad Irfan Aslam, Irfan Aslam, Muhammad Irfan, Rana Irfan, Senior Systems & Cloud Engineer, Linux Systems Engineer,
 DevOps Engineer, Cloud Engineer Riyadh, AWS Azure GCP, Docker Kubernetes, CI/CD, irfanaslam.io, learnwithirfan, visittome -->
 
 <p align="center"><sub>⭐ Thanks for visiting — let's build reliable infrastructure together.</sub></p>

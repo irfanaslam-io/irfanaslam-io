@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/workflows/readme-cards.yml"]
+    paths: [".github/workflows/readme-cards.yml", "README.md"]
 
 permissions:
   contents: write
@@ -85,6 +85,14 @@ jobs:
           options: username=irfanaslam-io&layout=donut&langs_count=8&hide_border=true&border_radius=14&title_color=2C8EFF&text_color=C8D6E0&bg_color=0F2027
           path: profile/top-langs.svg
           token: ${{ env.TOKEN }}
+
+      - name: Generate contribution graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: irfanaslam-io
+          outputs: |
+            profile/snake.svg?palette=github-light
+            profile/snake-dark.svg?palette=github-dark
 
       - name: Commit cards
         run: |
