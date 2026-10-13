@@ -49,7 +49,6 @@
 ```yaml
 name: "Muhammad Irfan Aslam"
 role: "Senior Systems & Cloud Engineer"
-also_known_as: ["Irfan Aslam", "Muhammad Irfan", "Rana Irfan"]
 based_in: "Riyadh, Saudi Arabia 🇸🇦"
 experience: "9+ years"
 website: "https://irfanaslam.io"
@@ -59,7 +58,7 @@ education: "MPhil, Computer Science"
 also: "Mentoring Linux & DevOps at learnwithirfan.com 🚀"
 ```
 
-**Muhammad Irfan Aslam** (also known as **Irfan Aslam** and **Rana Irfan**) is a **Senior Systems & Cloud Engineer** specializing in **Linux, Infrastructure, DevOps & Cloud**,
+**Muhammad Irfan Aslam** is a **Senior Systems & Cloud Engineer** specializing in **Linux, Infrastructure, DevOps & Cloud**,
 based in **Riyadh, Saudi Arabia**, with **9+ years** designing, deploying, and managing enterprise-grade infrastructure
 across Linux, hybrid cloud, and on-premises environments. Proven track record in **cloud architecture (AWS, Azure, GCP)**,
 **CI/CD automation**, **Docker orchestration**, and **security hardening** — driving DevOps transformation and ensuring
